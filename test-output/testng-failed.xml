@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Ethnic Store Application]">
+  <listeners>
+    <listener class-name="com.ethnicstore.extentReport.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="EthnicStore Testcases - FF(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.ethnicstore.tests.ES_UserProfilePageTests">
+        <methods>
+          <include name="setUp"/>
+          <include name="validateAddingItemtoCartTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ethnicstore.tests.ES_UserProfilePageTests -->
+    </classes>
+  </test> <!-- EthnicStore Testcases - FF(failed) -->
+</suite> <!-- Failed suite [Ethnic Store Application] -->

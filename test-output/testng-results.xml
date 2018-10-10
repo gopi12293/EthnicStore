@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ethnic Store Application" duration-ms="500369" started-at="2018-10-10T18:49:07Z" finished-at="2018-10-10T18:57:28Z">
+    <groups>
+    </groups>
+    <test name="EthnicStore Testcases - FF" duration-ms="500369" started-at="2018-10-10T18:49:07Z" finished-at="2018-10-10T18:57:28Z">
+      <class name="com.ethnicstore.tests.ES_UserProfilePageTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="setUp" is-config="true" duration-ms="41253" started-at="2018-10-10T18:53:01Z" finished-at="2018-10-10T18:53:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAddingItemtoCartTest()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="validateAddingItemtoCartTest" duration-ms="8454" started-at="2018-10-10T18:53:42Z" finished-at="2018-10-10T18:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddingItemtoCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="tearDown" is-config="true" duration-ms="271" started-at="2018-10-10T18:53:50Z" finished-at="2018-10-10T18:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="setUp" is-config="true" duration-ms="44999" started-at="2018-10-10T18:53:51Z" finished-at="2018-10-10T18:54:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogoffTest()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="validateLogoffTest" duration-ms="749" started-at="2018-10-10T18:54:36Z" finished-at="2018-10-10T18:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoffTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="tearDown" is-config="true" duration-ms="212" started-at="2018-10-10T18:54:36Z" finished-at="2018-10-10T18:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="setUp" is-config="true" duration-ms="40936" started-at="2018-10-10T18:54:37Z" finished-at="2018-10-10T18:55:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePlaceorderTest()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="validatePlaceorderTest" duration-ms="9567" started-at="2018-10-10T18:55:18Z" finished-at="2018-10-10T18:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlaceorderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="tearDown" is-config="true" duration-ms="295" started-at="2018-10-10T18:55:27Z" finished-at="2018-10-10T18:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="setUp" is-config="true" duration-ms="43148" started-at="2018-10-10T18:55:27Z" finished-at="2018-10-10T18:56:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRemovecartTest()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="validateRemovecartTest" duration-ms="18027" started-at="2018-10-10T18:56:11Z" finished-at="2018-10-10T18:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRemovecartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="tearDown" is-config="true" duration-ms="266" started-at="2018-10-10T18:56:29Z" finished-at="2018-10-10T18:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="setUp" is-config="true" duration-ms="48728" started-at="2018-10-10T18:56:29Z" finished-at="2018-10-10T18:57:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateUpdateitemcartTest()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="validateUpdateitemcartTest" duration-ms="9849" started-at="2018-10-10T18:57:18Z" finished-at="2018-10-10T18:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateitemcartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_UserProfilePageTests@14bf9759]" name="tearDown" is-config="true" duration-ms="368" started-at="2018-10-10T18:57:27Z" finished-at="2018-10-10T18:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ethnicstore.tests.ES_UserProfilePageTests -->
+      <class name="com.ethnicstore.tests.ES_HomePageTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="setUp" is-config="true" duration-ms="18523" started-at="2018-10-10T18:49:07Z" finished-at="2018-10-10T18:49:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="titleTest" duration-ms="21" started-at="2018-10-10T18:49:26Z" finished-at="2018-10-10T18:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="tearDown" is-config="true" duration-ms="1097" started-at="2018-10-10T18:49:26Z" finished-at="2018-10-10T18:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="setUp" is-config="true" duration-ms="17883" started-at="2018-10-10T18:49:27Z" finished-at="2018-10-10T18:49:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageLogoTest()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="homePageLogoTest" duration-ms="96" started-at="2018-10-10T18:49:45Z" depends-on-methods="com.ethnicstore.tests.ES_HomePageTests.titleTest" finished-at="2018-10-10T18:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="tearDown" is-config="true" duration-ms="380" started-at="2018-10-10T18:49:45Z" finished-at="2018-10-10T18:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="setUp" is-config="true" duration-ms="17451" started-at="2018-10-10T18:49:45Z" finished-at="2018-10-10T18:50:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAccountLinkTest()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="createAccountLinkTest" duration-ms="960" started-at="2018-10-10T18:50:03Z" depends-on-methods="com.ethnicstore.tests.ES_HomePageTests.homePageLogoTest" finished-at="2018-10-10T18:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_HomePageTests@31ef45e3]" name="tearDown" is-config="true" duration-ms="266" started-at="2018-10-10T18:50:04Z" finished-at="2018-10-10T18:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ethnicstore.tests.ES_HomePageTests -->
+      <class name="com.ethnicstore.tests.ES_CreateAccountPageTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="setUp" is-config="true" duration-ms="16293" started-at="2018-10-10T18:50:05Z" finished-at="2018-10-10T18:50:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="validateCreateAccountTest" duration-ms="4014" started-at="2018-10-10T18:50:21Z" data-provider="getData" finished-at="2018-10-10T18:50:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdfg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdgs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/01/1995]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adbtfbt@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gdjbk]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[416817]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[sdfdsf]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[dfg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1876871178]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[tgdt@34]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[tgdt@34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="tearDown" is-config="true" duration-ms="351" started-at="2018-10-10T18:50:25Z" finished-at="2018-10-10T18:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="setUp" is-config="true" duration-ms="16850" started-at="2018-10-10T18:50:26Z" finished-at="2018-10-10T18:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="validateCreateAccountTest" duration-ms="3736" started-at="2018-10-10T18:50:42Z" data-provider="getData" finished-at="2018-10-10T18:50:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fxbghgh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fghdgf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[02/02/1990]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dsjgnygtsduyfb@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sdfgfh]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[156]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[fghdbth]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[dthy]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[8768768717]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[gjygj@123]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[gjygj@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="tearDown" is-config="true" duration-ms="350" started-at="2018-10-10T18:50:46Z" finished-at="2018-10-10T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="setUp" is-config="true" duration-ms="16586" started-at="2018-10-10T18:50:46Z" finished-at="2018-10-10T18:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="validateCreateAccountTest" duration-ms="6018" started-at="2018-10-10T18:51:03Z" data-provider="getData" finished-at="2018-10-10T18:51:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Venu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Putta]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[07/27/1995]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[absdfxfcsdd@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Street Address of venu]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[854625]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Telangana]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[8276776817]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_CreateAccountPageTests@598067a5]" name="tearDown" is-config="true" duration-ms="258" started-at="2018-10-10T18:51:09Z" finished-at="2018-10-10T18:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ethnicstore.tests.ES_CreateAccountPageTests -->
+      <class name="com.ethnicstore.tests.ES_LoginPageTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="setUp" is-config="true" duration-ms="27944" started-at="2018-10-10T18:51:09Z" finished-at="2018-10-10T18:51:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginpageTitleTest()[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="validateLoginpageTitleTest" duration-ms="32" started-at="2018-10-10T18:51:37Z" finished-at="2018-10-10T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginpageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="248" started-at="2018-10-10T18:51:37Z" finished-at="2018-10-10T18:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="setUp" is-config="true" duration-ms="32833" started-at="2018-10-10T18:51:38Z" finished-at="2018-10-10T18:52:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="validateLoginTest" duration-ms="4361" started-at="2018-10-10T18:52:10Z" data-provider="getData" depends-on-methods="com.ethnicstore.tests.ES_LoginPageTests.validateLoginpageTitleTest" finished-at="2018-10-10T18:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="294" started-at="2018-10-10T18:52:15Z" finished-at="2018-10-10T18:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="setUp" is-config="true" duration-ms="30786" started-at="2018-10-10T18:52:15Z" finished-at="2018-10-10T18:52:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="validateLoginTest" duration-ms="14562" started-at="2018-10-10T18:52:46Z" data-provider="getData" depends-on-methods="com.ethnicstore.tests.ES_LoginPageTests.validateLoginpageTitleTest" finished-at="2018-10-10T18:53:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ethnicstore.tests.ES_LoginPageTests@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="268" started-at="2018-10-10T18:53:00Z" finished-at="2018-10-10T18:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ethnicstore.tests.ES_LoginPageTests -->
+    </test> <!-- EthnicStore Testcases - FF -->
+  </suite> <!-- Ethnic Store Application -->
+</testng-results>
